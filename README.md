@@ -20,6 +20,11 @@ A telecommunications Company wants to better understand its customer base and id
 ### 5. Churn Prediction using Logistic Regression:
 - Build a logistic regression model to predict customer churn based on the segmented customer data and derived features.
 - Split the dataset into training and testing sets and evaluate the model's performance using suitable metrics like accuracy, precision, recall and F1-Score.
+
+## Data:
+IBM Dataset: Telco Company https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset
+A fictional telco company that provided home phone and Internet services to 7043 customers in California in Q3.
+
 ## Analysis
 ### 6. Model Evaluation and Interpretation:
 - Assess the performance of the churn prediction model and interpret the results to gain insights into factors influencing customer churn.
